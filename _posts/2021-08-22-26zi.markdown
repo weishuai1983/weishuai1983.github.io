@@ -6,7 +6,6 @@ description: 打开免费申请 SSL 证书网站：FreeSSL 官网
 img: 16281531722641569.png
 tags: [教程 ssl证书]
 ---
-
 第一步：打开免费申请 SSL 证书网站：FreeSSL 官网
 
 打开网站后注册一个账号
