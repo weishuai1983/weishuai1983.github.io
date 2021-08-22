@@ -1,10 +1,10 @@
 ---
 layout: post
-title: [教程]分享一个免费申请ssl证书的方法
+title: 分享一个免费申请ssl证书的方法
 date: 2021-08-22 00:00:00 +0000
-description: 第一步：打开免费申请 SSL 证书网站：FreeSSL 官网
+description: 打开免费申请 SSL 证书网站：FreeSSL 官网
 img: shakeng.png
-tags: [教程, ssl证书]
+tags: [教程 ssl证书]
 ---
 
 第一步：打开免费申请 SSL 证书网站：FreeSSL 官网
