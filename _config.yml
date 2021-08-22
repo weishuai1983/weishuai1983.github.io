@@ -1,4 +1,4 @@
-title: 糖·少
+title: 魏·帅
 description: > # this means to ignore newlines until "baseurl:"
   什么时候才能变得像你们一样优秀 ( 。＿ 。） 
 permalink: ':title/'
@@ -7,9 +7,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 糖·少 # add your name
+author: 魏·帅 # add your name
 author-img: weijiyang.jpeg # add your photo
-about-author: 一枚前端开发工程师 # add description
+about-author: 一枚影视博主 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: weijiyang # add your Github handle
