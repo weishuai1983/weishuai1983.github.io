@@ -3,7 +3,7 @@ layout: post
 title: 分享一个免费申请ssl证书的方法
 date: 2021-08-22 00:00:00 +0000
 description: 打开免费申请 SSL 证书网站：FreeSSL 官网
-img: shakeng.png
+img: 16281531722641569.png
 tags: [教程 ssl证书]
 ---
 
