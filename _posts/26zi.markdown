@@ -2,9 +2,11 @@
 layout: post
 title: 测试
 description: 26zi网
+date: 2021-08-22 00:00:00 +0300
 img: company/company.png
-fig-caption: 26自媒体影视解说
-tags: [COMPANY, ME]
+description: 26自媒体影视解说
+img: company/company.png
+tags: [HTML, CDN]
 ---
 
 ## 介绍一下我的公司 - [美菜][url]
