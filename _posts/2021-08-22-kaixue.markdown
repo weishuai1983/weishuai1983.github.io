@@ -17,7 +17,7 @@ tags: [开学通知, 新冠疫情]
 
 * 高校9月15日前不安排学生返校，可按秋季学期校历安排线上教学。15日后，开学返校时间，也分为低风险和中高风险2种情况。
 
-* [各地教育局开学通知](https://www.163.com/dy/article/GI0E29P70536CQ2X.html)
-* [一文读懂前端缓存][url0]
+* [这是测试链接-开学通知](https://www.163.com/dy/article/GI0E29P70536CQ2X.html)
+* [测试链接][url0]
 
 [url0]:https://www.163.com/dy/article/GI0E29P70536CQ2X.html
