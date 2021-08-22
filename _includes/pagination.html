@@ -27,7 +27,7 @@
         {% endif %}
       {% endif %}
       &nbsp;
-      <span class="page-number">下一页 {{paginator.page}} of {{paginator.total_pages}}</span>
+      <span class="page-number">下一页 {{paginator.page}} ... {{paginator.total_pages}}</span>
       &nbsp;
       {% if paginator.next_page %}
       <a class="older-posts" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
