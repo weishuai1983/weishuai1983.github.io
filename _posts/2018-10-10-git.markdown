@@ -35,3 +35,25 @@ tags: [Git]
 * git reset <版本号>  回退到指定版本
 * git reset HEAD^ 回退到上次提交
 * git reset HEAD^^ 会退到上上次提交
+* 文字命名链接：2021-08-22-cdn.markdown
+---
+layout: post
+title: 这里是标题
+date: 2021-08-22 00:00:00 +0300
+description: 文章简介
+Img: 
+tags: [标签, CDN]
+---
+
+正文
+
+[美菜][url]
+
+![图片链接]({{site.baseurl}}/assets/img/company/company_index.png)
+
+* [文字链接](https://jsfiddle.net/)
+* [GreenSock 特效动画插件][url6]
+
+[url0]: https://juejin.im/post/5c22ee806fb9a049fb43b2c5
+
+[url]: http://www.meicai.cn/
