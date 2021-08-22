@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 什么是CDN? 
-date: 2018-11-29 00:00:00 +0300
-description: 简单介绍CND概念&实现原理
+title: 测试一下CDN? 
+date: 2021-08-2 00:00:00 +0300
+description: 这里是内容简介
 tags: [HTML, CDN]
 ---
 ## 项目配置中打包会将文件上传CDN，什么是CDN？
