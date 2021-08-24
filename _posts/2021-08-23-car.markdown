@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 新买的逍客到家了
-date: 2021-08-23 00:80:00
+date: 2021-08-23  00:00:00 +0300
 description: 今天去南京接的日产逍客到家喽
 Img: xiaoke.jpg
 tags: [新车, 逍客]
